@@ -33,11 +33,25 @@ References:
 
 
 Ast, M. P., Alpaugh, K., & Haas, S. B. (2021). Immersive technologies for total knee arthroplasty surgical education. Archives of Orthopaedic and Trauma Surgery, 141(12), 2331-2335. doi:10.1007/s00402-021-04174-7
+
+
 Barad, J. (2019, August 16). Virtual and Augmented reality can save lives by improving surgeons’ training. Retrieved from Statnews: https://www.statnews.com/2019/08/16/virtual-reality-improve-surgeon-training/
+
+
 Daley, S. (2022, November 17). How Virtual Reality and Augmented reality Are Used in Surgery: 12 Examples. Retrieved from Builtin: https://builtin.com/healthcare-technology/augmented-virtual-reality-surgery
+
+
 Halabi, O., Balakrishnan, S., Dakua, S. P., Navab, N., & Warfa, M. (2020). Virtual and Augmented reality in Surgery. In The Disruptive Fourth Industrial Revolution (pp. 257-285). Cham: Springer.
+
+
 McKnight, R., Pean, C. A., Buck, S., Hwang, J. S., Hsu, J. R., & Pierrie, S. N. (2020). Virtual Reality and Augmented reality —translating surgical training into surgical technique. Christian A. PeanCurrent Reviews in Musculoskeletal Medicine, 13(6), 663-674. doi:10.1007%2Fs12178-020-09667-3
+
+
 Rawaf, D. L., Street, E., & Van Flute, J. (2022). Use of Augmented reality in surgical simulation training during covid-19. BMJ, 376. doi:doi.org/10.1136/bmj.o50
 Statista (2021). Global healthcare AR and VR market in 2018 and 2025 [Photograph]. https://www.statista.com/statistics/1033162/healthcare-ar-and-vr-market-forecast-worldwide-by-region/ 
+
+
 Suresh, D., Aydin, A., James, S., Ahmed, K., & Dasgupta, P. (2022). The Role of Augmented Reality in Surgical Training: A Systematic Review. Surgical Innovation. doi:10.1177/15533506221140506
+
+
 Tsarouva, M. (2022, 01 March). What should you know about Virtual Reality for surgery training? Retrieved from Itechart: https://www.itechart.com/blog/virtual-reality-in-surgery/

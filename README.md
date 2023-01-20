@@ -26,6 +26,7 @@ In conclusion, AR and VR are effective in surgical training as they offer severa
   <img width="291" alt="image" src="https://user-images.githubusercontent.com/120384627/213748102-c978fc1f-dc8a-4592-a939-1ccc55a9bcad.png">  
 Figure 2: AR and VR in surgical training
 
+
 References:
 
 Ast, M. P., Alpaugh, K., & Haas, S. B. (2021). Immersive technologies for total knee arthroplasty surgical education. Archives of Orthopaedic and Trauma Surgery, 141(12), 2331-2335. doi:10.1007/s00402-021-04174-7

@@ -25,4 +25,3 @@ Rawaf, D. L., Street, E., & Van Flute, J. (2022). Use of Augmented reality in su
 Statista (2021). Global healthcare AR and VR market in 2018 and 2025 [Photograph]. https://www.statista.com/statistics/1033162/healthcare-ar-and-vr-market-forecast-worldwide-by-region/ 
 Suresh, D., Aydin, A., James, S., Ahmed, K., & Dasgupta, P. (2022). The Role of Augmented Reality in Surgical Training: A Systematic Review. Surgical Innovation. doi:10.1177/15533506221140506
 Tsarouva, M. (2022, 01 March). What should you know about Virtual Reality for surgery training? Retrieved from Itechart: https://www.itechart.com/blog/virtual-reality-in-surgery/
-![image](https://user-images.githubusercontent.com/120384627/213746982-17452eb3-ada0-4e3e-8ba8-428f4d2c994f.png)

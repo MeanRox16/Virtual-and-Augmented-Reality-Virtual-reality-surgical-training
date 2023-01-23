@@ -1,4 +1,4 @@
-## INTRODUCTION
+### INTRODUCTION
 
 The journey of medical training, especially the surgical specialty, is intense, complex, and challenging. The training, in most cases, lasts for more than five years in medical schools. The complexity of surgical training is increased because it needs a lot of hands-on training experiences, and sessions in the operating room to watch the experienced surgeons undertake their surgical practicals (McKnight, et al., 2020). It takes a lot of time to master art, and surgical training is quite similar. 
 
@@ -6,14 +6,14 @@ The journey of medical training, especially the surgical specialty, is intense, 
 Most of the people also lack exposure to some of the complex surgical practical situations. As a result, a study by the University of Michigan found that more than 30% of surgeons generally need help to operate independently after completing surgical training (Daley, 2022). The rapid advances in the development of medical instruments in the 21st century contributes to healthier lives. Teaching the trainees how to use the often complicated technologies is challenging. Failing to train surgeons effectively can negate the benefits of current technologies and put patients at risk of harm.
 
 
-## BENEFITS
+### BENEFITS
 
 The training institutions are leveraging the benefits brought about by immersive technologies such as Virtual Reality (VR) and Augmented Reality (AR) to provide realistic simulations of surgical procedures (Barad, 2019). It provides an excellent opportunity to help the trainees to improve their surgical skills in a safer and more controlled environment without the need for patients, thus lowering the risks related to surgical training (Tsarouva, 2022). There are different opportunities where immersive relativity can be used in surgical training.
 
 Simulations enabled by the immersive reality improves the ability of the training organizations to provide skills acquisition and assessment in a non-clinical environment which is a new and exciting frontier for surgical training. Many authors argue that “surgical training should mirror pilot training, which leverages the power of simulation before exposing trainees to live situations (McKnight, et al., 2020).” Besides, others argue that surgical trainees have ethical obligations to be exposed to clinical scenarios that can be reasonably simulated before experiencing them with the patients.
 
 
-## APPLICATION of VR
+### APPLICATION of VR
 
 Use of VR in training provides the trainers with agility, allowing the learners and instructors to transfer their focus to knowledge acquisition without the need to balance the patient’s safety (McKnight, et al., 2020). A research by (Suresh, Aydin, James, Ahmed, & Dasgupta, 2022) has shown that immersive reality technology can help facilitate learning and mastery of new techniques through realistic simulations that can be performed successfully in non-clinical settings, thus avoiding incidents of risking patients’ safety. One such example is VR is being used in Brain Surgery as depicted in the following video:
 
@@ -26,7 +26,7 @@ Since the introduction of the first VR arthroscopy in the 1990s, numerous orthop
 The application of VR provides real-time and haptic feedback, which simulates the human body’s resistance, real-time assessments, and detailed analytics, which would not have been possible with traditional simulations involving patients (Halabi, Balakrishnan, Dakua, Navab, & Warfa, 2020). The feature allows the trainees to gauge their performance, help faculty understand the performance, and offer better educational support. VR surgical simulations are safe and efficient and offer efficient ways for trainees to improve their surgical skills before performing on live patients.
 
 
-## APPLICATION of AR
+### APPLICATION of AR
 
 AR is another immersive reality that can be used in surgical training. It is also used in intraoperative guidance, surgical training, and simulations. Different advancements in technology have made it a reality in many operating rooms. Different studies discuss the role and use of AR in surgical training. The study by (Rawaf, Street, & Van Flute, 2022) notes that the use of AR in surgical training increased during the COVID-19 pandemic to provide remote training for healthcare professionals. The technology allows the instructors to overlay the digital information in the real world, which enhances the training experience. For instance, AR is critical for providing trainees with real-time information and guidance during simulation, which is an essential step in a surgical procedure.
 
@@ -39,7 +39,7 @@ Figure 1: Global healthcare AR and VR market in 2018 and 2025 by region retrieve
 </p>
 
 
-## CONCLUSION
+### CONCLUSION
 
 AR and VR are effective in surgical training as they offer several advantages over traditional training. First, they provide a realistic simulation of the surgical procedures that allow trainees to develop and improve their skills in a safe and controlled environment. They also allow the learners to practice rare and complex procedures unavailable in the live patient setting. Again, using AR and VR in surgical training supports remote training, such as when COVID-19 disrupted traditional training. The VR technology is also found to ensure standardization in training which is vital to ensuring that trainees receive a consistent and high-quality education. It also allows instructors and institutions to evaluate the trainees and the learning process by providing real-time assessments and detailed analytics. However, it is recommended that VR and AR technology can be used as an adjunct to traditional surgical education rather than replacing it entirely to provide learners with a well-rounded experience.
 
@@ -50,7 +50,7 @@ AR and VR are effective in surgical training as they offer several advantages ov
  Figure 2: AR and VR in Surgical training
  </p>
 
-## REFERENCES
+### REFERENCES
 
 
 Ast, M. P., Alpaugh, K., & Haas, S. B. (2021). Immersive technologies for total knee arthroplasty surgical education. Archives of Orthopaedic and Trauma Surgery, 141(12), 2331-2335. doi:10.1007/s00402-021-04174-7

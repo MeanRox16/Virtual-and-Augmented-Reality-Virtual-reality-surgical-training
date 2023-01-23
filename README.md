@@ -10,6 +10,8 @@ Simulations enabled by the immersive reality improves the ability of the trainin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tZvY1a-0rpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+## History
 Since the introduction of the first VR arthroscopy in the 1990s, numerous orthopedic simulators and task trainers have been developed (McKnight, et al., 2020). Modern simulators are effective in surgical training since they allow trainees to practice impossible skills in traditional training settings. VR comes with many benefits in surgical training. One of the benefits of VR simulations over real-world simulations is that they allow novices to get immediate constructive feedback and assistance on their performance without a need for face-to-face expert guidance (McKnight, et al., 2020). VR simulations such as Osso VR uses Oculus Rift VR headsets to provide immersive and realistic experiences for healthcare professionals and students. The key benefit of Osso is that it can be customized to different procedures and allows multiple users to collaborate in a virtual operating room. 
 
 
@@ -23,14 +25,14 @@ AR is another immersive reality that can be used in surgical training. It is als
 Figure 1: Global healthcare AR and VR market in 2018 and 2025 by region retrieved from (Statista, 2021).
 
 
-In conclusion, AR and VR are effective in surgical training as they offer several advantages over traditional training. First, they provide a realistic simulation of the surgical procedures that allow trainees to develop and improve their skills in a safe and controlled environment. They also allow the learners to practice rare and complex procedures unavailable in the live patient setting. Again, using AR and VR in surgical training supports remote training, such as when COVID-19 disrupted traditional training. The VR technology is also found to ensure standardization in training which is vital to ensuring that trainees receive a consistent and high-quality education. It also allows instructors and institutions to evaluate the trainees and the learning process by providing real-time assessments and detailed analytics. However, it is recommended that VR and AR technology can be used as an adjunct to traditional surgical education rather than replacing it entirely to provide learners with a well-rounded experience.
+## Conclusion
+AR and VR are effective in surgical training as they offer several advantages over traditional training. First, they provide a realistic simulation of the surgical procedures that allow trainees to develop and improve their skills in a safe and controlled environment. They also allow the learners to practice rare and complex procedures unavailable in the live patient setting. Again, using AR and VR in surgical training supports remote training, such as when COVID-19 disrupted traditional training. The VR technology is also found to ensure standardization in training which is vital to ensuring that trainees receive a consistent and high-quality education. It also allows instructors and institutions to evaluate the trainees and the learning process by providing real-time assessments and detailed analytics. However, it is recommended that VR and AR technology can be used as an adjunct to traditional surgical education rather than replacing it entirely to provide learners with a well-rounded experience.
  
   <img width="291" alt="image" src="https://user-images.githubusercontent.com/120384627/213748102-c978fc1f-dc8a-4592-a939-1ccc55a9bcad.png">  
-  
-Figure 2: AR and VR in surgical training
+  Figure 2: AR and VR in surgical training
 
 
-References:
+## References
 
 
 Ast, M. P., Alpaugh, K., & Haas, S. B. (2021). Immersive technologies for total knee arthroplasty surgical education. Archives of Orthopaedic and Trauma Surgery, 141(12), 2331-2335. doi:10.1007/s00402-021-04174-7

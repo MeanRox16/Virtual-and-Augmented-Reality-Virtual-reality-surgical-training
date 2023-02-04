@@ -35,7 +35,7 @@ Research findings also suggest that AR-assisted surgical training effectively im
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/120384627/213747490-9affc458-dca0-4a16-92fc-b54a8c9b756a.png">
 </p>
 <p align="center">
-Figure 1: Global healthcare AR and VR market in 2018 and 2025 by region retrieved from (Statista, 2021).
+Figure 1: Global healthcare AR and VR market in 2018 and 2025 by region retrieved from (Statistics, 2021).
 </p>
 
 
